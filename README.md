@@ -1,4 +1,4 @@
-[8yhi7flav5881.jpg](https://github.com/user-attachments/assets/2d4d12ff-8e9e-4a83-aaea-060bdfbcefa2) # GitHub Codespaces ♥️ React
+ # GitHub Codespaces ♥️ React
 
 Welcome to your shitty new Codespace running React! We've got everything fired up and running for you to explore React.
 
